@@ -1,10 +1,12 @@
 
 
+
 Here’s the **problem statement** in short, with clear facts and examples:
 
 ---
 
 ### Problem
+![excercise_04_rl_dynamic_pricing.png](excercise_04_rl_dynamic_pricing.png)
 
 You manage a **shared e-bike station** with **40 bikes**. Every **15 minutes** you must set a **price tier** (Low / Medium / High).
 
